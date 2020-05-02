@@ -1,7 +1,7 @@
 # Lab7
 
 - Добавлен компонент addLesson:    
-![1](https://github.com/ZhestovskyYS/ZhestovskyYS/1.PNG)
+![1](https://drive.google.com/open?id=1H9-NG_qnTHh3ZokWVVwqFQ5wp0wS3dtA)
 
 - Прописан путь к компоненту:  
 ![2](https://github.com/ZhestovskyYS/ZhestovskyYS/2.PNG)
